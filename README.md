@@ -1,5 +1,5 @@
 # meteo-esp8266-oled
-Une application de météo pour l'esp8266-oled, adapté et amélioré depuis un autre projet existant.
+Une application de météo pour l'esp8266-oled (HW-364A), adapté et amélioré depuis un autre projet existant.
 *Ce projet est basé sur [CE PROJET](https://github.com/datatomotion/Station-M-t-o-Ultime-V1)*
 
 # Utilisation
